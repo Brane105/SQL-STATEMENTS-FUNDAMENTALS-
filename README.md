@@ -1,7 +1,7 @@
 PostgreSQL (SQL STATEMENTS)
 
 
-DOWNLOAD THE ZIP FILE TO GET ASSCESS TO CODE AND ITS EXPLAINATION
+DOWNLOAD DVDRENTAL.tar its the Table database dont open it you need to open it in SQL SERVER PGadmin 4 and all THE ZIP FILE TO GET ASSCESS TO CODE AND ITS EXPLAINATION
 1.SELECT statements:
 
 The SELECT Statement in SQL is used to retrieve or fetch data from a database. We can fetch either the entire table or according to some specified rules. The data returned is stored in a result table. ... This query will return all the rows in the table with fields column1 , column2.
